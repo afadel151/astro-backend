@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/019c80a4-076d-4f73-bda2-bc96a93210aa/deploy-status)](https://app.netlify.com/projects/albattani-astroclub/deploys)
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
